@@ -1,5 +1,5 @@
 # PML_bootcamp-project
-Final porject of the bootcamp Python and Machine learning by SHAPEAI
+Final project of the bootcamp Python and Machine learning by SHAPEAI
 # SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
